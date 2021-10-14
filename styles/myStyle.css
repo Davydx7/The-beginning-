@@ -1,0 +1,31 @@
+/* #scripts {
+            border: 5px solid black;
+        } */
+        table {
+            border-collapse: collapse;
+            background-color: #dff0d8;
+            color: #3c763d;
+        }
+        td {
+            border: 1px solid #d6e9c6;
+            padding: 3px 5px;
+        }
+
+        .alert {
+            padding: 15px;
+            border: 1px solid #d6e9c6;
+            border-radius: 4px;
+            color: #3c763d;
+            background-color: #dff0d8;
+        }
+        #diva {
+            padding: 15px;
+            border: 10px solid #d6e9c6;
+            border-radius: 4px;
+            color: #3c763d;
+            background-color: #dff0d8;
+        }
+
+        #list {
+            color: red;
+        }

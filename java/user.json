@@ -1,0 +1,10 @@
+{
+    "user": {
+        "name": "David",
+        "Age": 21,
+        "Gender": "male",
+        "use": {
+          "nam": "jade"
+        }
+    }
+}
